@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thuan-1954
-- 👀 I’m interested in ...NSUDO
-- 🌱 I’m currently learning ...NSDO
-- 💞️ I’m looking to collaborate on ...NSUDO
+- 👀 I’m interested in Windows server 2019 and later
+- 🌱 I’m currently learning Imdisk RAM disk and scripting
+- 💞️ I’m looking to collaborate on optimization for SQ
 - 📫 How to reach me ...buiduythuan@gmail.com
 
 <!---
